@@ -10,5 +10,6 @@ public class First {
 
         System.out.println("Hello, " + name);
         System.out.println("today is bad weather");
+        System.out.println("today is bad weather");
     }
 }
